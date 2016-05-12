@@ -1,3 +1,3 @@
-# Light-weight-secure-scheme-for-data-provenance-and-forgery-detecting-in-wireless-sensor-network
+# Light weight secure scheme for data provenance and forgery detection in wireless sensor network
 
-College project.
+College project done by Sagar, Shivraj, Sudhanva, Vishwas.
